@@ -1,5 +1,7 @@
 # WhiteList
 Telegram bot for automated Minecraft whitelist management, player applications and Discord integration.  Telegram-бот для автоматизации управления Minecraft Whitelist, обработки заявок игроков и интеграции с Discord.
+@WhiteListPT_bot - Telegram
+https://t.me/WhiteListPT_bot - Telegram
 # Whitelist Bot
 
 **A Minecraft whitelist management bot for Telegram and Discord.**
